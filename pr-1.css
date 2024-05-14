@@ -1,0 +1,40 @@
+.pr1{
+    text-align: center;
+    padding-top: 200px;
+}
+.pr1 #max , #lar ,#res ,#res-2 , #res-3 ,#min ,#num{
+    color: white;
+    margin:10px 0px;
+}
+.pr1 h2{
+    color: white;
+    font-size: 40px;
+}
+.pr1 input:hover{
+    border-bottom: 2px solid #6dcc64;
+}
+.pr1 .btn-one {
+    border-radius: 5px;
+    width: 80px;
+    border: 1px solid white;
+    outline: none;
+    padding: 8px;
+    color: white;
+    transition: all 0.2s;
+    background-color:transparent;
+}
+.pr1 .btn-one:hover{
+    box-shadow:-1px 0px 3px 4px #6dcc64;
+}
+.pr1 input{
+	background-color:transparent;
+	border:none;
+    color: white;
+    outline: none;
+	border-bottom:2px solid white;
+    /* border: none; */
+}
+.main{
+    background-color: black;
+    height: 690px;
+}
